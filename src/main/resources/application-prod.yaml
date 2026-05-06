@@ -1,6 +1,6 @@
 spring:
-  flyway:
-    enabled: false
+  # flyway:
+  #   enabled: false
   datasource:
     url: ${SPRING_DATASOURCE_URL}
 websiteUrl: http://localhost:3000
